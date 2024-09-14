@@ -1,0 +1,218 @@
+h1{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 200px;
+    color: #2596be
+}
+#container{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+}
+#container2{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+    gap:20px;
+}
+#container3{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+    gap:20px;
+    
+}
+#block1{
+    height:900px;
+    width:1100px;
+    background-color: rgb(243, 246, 245);
+    display:inline-block;
+    flex-direction: row;
+    margin-left: 200px;
+    border:5px solid #222323;
+    border-radius: 50px;
+}
+#block2{
+    height:900px;
+    width:1100px;
+    background-color: rgb(7, 7, 6);
+    display:inline-block;
+    margin-left: 200px;
+    box-shadow: 2px,2px;
+    display:flex;
+    flex-direction: row;
+    border: 5px solid;
+    border-radius: 50px;
+}
+#block3{
+    height:900px;
+    width:1100px;
+    background-color: rgb(243, 246, 245);
+    display:inline-block;
+    flex-direction: row;
+    margin-left: 200px;
+    margin-top: 100px;
+    margin-left:1500px;
+    border:5px solid #222323;
+    background-color: #000000;
+    border-radius:50px;
+}
+#btn1{
+    height:200px;
+    width: 200px;
+    border-radius: 50px;
+    background-color:#47994e;
+    font-size: 30px;
+}
+#btn2{
+    height:200px;
+    width: 200px;
+    border-radius: 50px;
+    background-color:#be0665;
+    font-size: 30px;
+}
+#btn3{
+    height:200px;
+    width: 200px;
+    border-radius: 50px;
+    background-color:#fe2d03;
+    font-size: 30px;
+}
+#btn4{
+    height:200px;
+    width: 200px;
+    border-radius: 50px;
+    background-color:	#94f00a;
+    font-size: 30px;
+}
+#btn5{
+    height:200px;
+    width: 200px;
+    border-radius: 50px;
+    background-color:#ea0bd4 ;
+    font-size: 30px;
+}
+#btn6{
+    height:200px;
+    width: 200px;
+    border-radius: 50px;
+    background-color:#f36709 ;
+    font-size: 30px;
+}
+#btn7{
+    height:200px;
+    width: 200px;
+    border-radius: 50px;
+    background-color:#18ceef;
+    font-size: 30px;
+}
+#btn8{
+    height:200px;
+    width: 200px;
+    border-radius: 50px;
+    background-color:#B2BEB5 ;
+    font-size: 30px;
+}
+#btn9{
+    height:200px;
+    width: 200px;
+    border-radius: 50px;
+    background-color:#007FFF ;
+    font-size: 30px;
+}
+#btn10{
+    height:200px;
+    width: 200px;
+    border-radius: 50px;
+    background-color:#89CFF0 ;
+    font-size: 30px;
+}
+#btn11{
+    height:200px;
+    width: 200px;
+    border-radius: 50px;
+    background-color:#bd0948 ;
+    font-size: 30px;
+}
+#btn12{
+    height:200px;
+    width: 200px;
+    border-radius: 50px;
+    background-color:#848482 ;
+    font-size: 30px;
+}
+#btn13{
+    height:200px;
+    width: 200px;
+    border-radius: 50px;
+    background-color:#e3c608 ;
+    font-size: 30px;
+}
+#btn14{
+    height:200px;
+    width: 200px;
+    border-radius: 50px;
+    background-color:#A57164 ;
+    font-size: 30px;
+}
+#btn15{
+    height:200px;
+    width: 200px;
+    border-radius: 50px;
+    background-color:#0018A8 ;
+    font-size: 30px;
+}
+
+#btn16{
+    height:200px;
+    width: 200px;
+    border-radius: 50px;
+    background-color:#FFAA1D ;
+    font-size: 30px;
+}
+#btn17{
+    height:200px;
+    width: 200px;
+    border-radius: 50px;
+    background-color:#f00bf0 ;
+    font-size: 30px;
+}
+#btn18{
+    height:200px;
+    width: 200px;
+    border-radius: 50px;
+    background-color:#BDB76B;
+    font-size: 30px;
+}
+#btn19{
+    height:200px;
+    width: 200px;
+    border-radius: 50px;
+    background-color:#483D8B ;
+    font-size: 30px;
+}
+#btn20{
+    height:200px;
+    width: 200px;
+    border-radius: 50px;
+    background-color:#ff00a2;
+    font-size: 30px;
+}
+#clear{
+    height:80px;
+    width:200px;
+    margin-left: 600px;
+    font-size: 30px;
+    
+}
+#textBox{
+    outline: none;
+    border: none;
+    background-color:transparent;
+    font-size: 40px;
+    height: 900px;
+    width:100%;
+    border-radius: 50px;
+    padding:20px;
+}
+
+
